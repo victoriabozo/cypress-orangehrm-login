@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+cypress/cache/
+
+# Cypress config / results
+cypress/results/
+cypress/reports/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Coverage reports
+coverage/
+*.lcov
+
+# TypeScript build
+*.tsbuildinfo
+
+# Optional Cypress npm cache
+.npm/
