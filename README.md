@@ -10,7 +10,7 @@ Se verifica:
 - Redirección exitosa al dashboard  
 - Visualización del texto "Dashboard" en la página  
 
-## Ubicación del test
+## Ubicación del test 🗺️
 - `cypress/e2e/` → (`login.cy.js`)  
  
 
